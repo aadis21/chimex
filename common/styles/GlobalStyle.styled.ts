@@ -38,6 +38,9 @@ const GlobalStyle = createGlobalStyle`
     color: ${COLORS.FONT_GRAY_DARK};
   }
 
+
+
+
   ul, menu, li {
     padding: 0;
     list-style: none;
