@@ -10,7 +10,7 @@
       src="/assets/chime-clone-logo.svg"
       width="300"
       style="max-width: 100%;"
-    /.
+    /
   </a>
   <br /><br />
   <b align="center">
